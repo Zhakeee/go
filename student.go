@@ -1,4 +1,4 @@
-package main
+package zhake
 
 type Student struct {
 	FirstName  string
